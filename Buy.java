@@ -23,8 +23,6 @@ import java.util.Scanner;
         3:满100元，加10元换购5公斤面粉
         4:满200元，加10元可换购1个苏泊尔炒菜锅
         5:满200员，加20元可换购欧莱雅爽肤水1瓶
-    项目完成！
-        但是还会有很多的BUG，需要进一步修改！:)
  */
 public class Buy {
     public static void main(String[] args) {
